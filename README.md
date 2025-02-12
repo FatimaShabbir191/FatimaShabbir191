@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatima Zahra Shabbir</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimashabbir191" alt="fatimashabbir191" /></a> </p>
 
-- 🌱 I’m currently learning **Graphic Designing**
-
 - 📫 How to reach me **fatimashabbir1506@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
